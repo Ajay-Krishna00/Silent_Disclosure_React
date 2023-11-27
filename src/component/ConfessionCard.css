@@ -1,0 +1,11 @@
+.confessions{
+    background-color: rgb(230, 25, 127);
+    font-size: 1.1rem;
+    padding: 1.2rem;
+    border-radius: 1rem;
+    width: 250px;
+    height: 200px;
+}
+h3{
+    font-size: 1.2rem;
+}

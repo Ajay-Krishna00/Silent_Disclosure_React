@@ -1,0 +1,24 @@
+nav{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    display: flex;
+    justify-content:space-between;
+    top: 0%;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 16vh;
+    box-shadow: 1px 1px 5px 1px white;
+    align-items: center;
+    padding: .8rem;
+    
+}
+ul{
+    display: flex;
+    direction: center;
+    list-style: none;
+    gap: 3rem;
+    padding-right: 3rem;
+    font-size: 1.2rem;
+}
