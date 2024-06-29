@@ -1,5 +1,5 @@
-#### Silent Disclosure
-#Welcome to Silent Disclosure, my first website built using React!😁
+### Silent Disclosure
+# Welcome to Silent Disclosure, my first website built using React!😁
 This project is hosted on both Vercel and GitHub Pages.
 
 • Vercel Hosted Link: [Silent Disclosure on Vercel](https://silentdisclosure-8bg2rl8nw-ajay-krishna-ds-projects.vercel.app/)
