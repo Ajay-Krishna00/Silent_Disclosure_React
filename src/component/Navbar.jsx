@@ -9,12 +9,15 @@ const Navbar = () => {
             Silent Disclosure 
             </h1>
             <ul>
-            <li>
-                <Link to="/" >Home</Link>
-            </li>
-            <li>
-                <Link to="/add" >Add Disclosure</Link>
-            </li>
+                <li>
+                    <Link to="/" >Home</Link>
+                </li>
+                <li>
+                    <Link to="/add" >Add Disclosure</Link>
+                </li>
+                <li >
+                    <Link to="/about">About</Link>
+                </li>
             </ul>
         </nav>
     )
