@@ -12,8 +12,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  
   "dependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-react": "^7.24.7",
     "firebase": "^10.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
