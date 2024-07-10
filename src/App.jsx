@@ -12,7 +12,6 @@ function App() {
     <>
       <BrowserRouter>
       <Navbar/>
-      
       <Routes>
         <Route path='/' Component={Feed} />
         <Route path='/add' Component={AddConfession} />
