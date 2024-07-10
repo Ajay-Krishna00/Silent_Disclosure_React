@@ -1,5 +1,5 @@
 import './App.css'
-import ConfessionCard from './component/ConfessionCard'
+import React from 'react';
 import Navbar from './component/Navbar';
 import AddConfession from './pages/AddConfession'
 import About from './pages/About';
